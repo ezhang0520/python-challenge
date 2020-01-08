@@ -1,0 +1,5 @@
+232,John,Mathews,1991/02/24,***-**-9165,ND
+533,Nathan,Moore,1978/11/19,***-**-7469,ME
+256,Amanda,Douglas,1990/01/08,***-**-6961,ID
+189,Heather,Andrews,1976/08/11,***-**-1797,VT
+284,Daniel,Hernandez,1976/07/22,***-**-7473,CO
